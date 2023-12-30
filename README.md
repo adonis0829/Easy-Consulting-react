@@ -111,4 +111,4 @@ What you get here:
 
 ujjal zaman - [Linkdeind](www.linkedin.com/in/ujjal-zaman)
 
-Project Link: [https://github.com/Ujjalzaman/Easy-Consulting-react](https://github.com/Ujjalzaman/Easy-Consulting-react)
+Project Link: [https://github.com/adonis0829/Easy-Consulting-react](https://github.com/Ujjalzaman/Easy-Consulting-react)
